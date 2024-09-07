@@ -7,6 +7,8 @@
 - Update tasks
 - Every task has its date of creation
 
+<img width="860" alt="Снимок экрана 2024-09-07 в 23 52 34" src="https://github.com/user-attachments/assets/af2fb309-eb81-4882-b66d-092d64c6561f">
+
 #### PyCharm recommended.
 1. Install requirements.txt
 2. Run app.py
@@ -21,6 +23,8 @@
 - Удалять завершенные задачи
 - Редактировать задачи
 - У каждой задачи есть дата ее создания
+
+<img width="860" alt="Снимок экрана 2024-09-07 в 23 54 09" src="https://github.com/user-attachments/assets/ef154a5b-9fa4-4028-865c-d76785035aae">
 
 #### Для работы удобно использовать PyCharm.
 1. Загрузите requirements.txt
